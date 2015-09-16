@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:55:40.654266
+#+DATE: 2015-08-30 20:55:46.318883
 #+TITLE: 成唯識論
 #+PROPERTY: CBETA_ID T31n1585
 #+PROPERTY: ID KR6n0016
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 31, No. 1585
 #+PROPERTY: VOL 31
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6n0016_T_004-0017b> ¶¶¶¶
 #+PROPERTY: JUAN 4
 ¶
 ¶
-
- 《成唯識論》卷第四¶
+《成唯識論》卷第四¶
 ¶
 護法等菩薩造¶
 三藏法師玄奘奉　詔譯¶
@@ -192,10 +191,7 @@
 <pb:KR6n0016_T_004-0019b>¶
 
 #+BEGIN_VERSE
-「:PROPERTIES:
-:head: ５
-:END:
-
+「* ５
 　次第二能變
 　是識名末那¶
 　依彼轉緣彼
@@ -204,10 +200,7 @@
 」¶
 
 #+BEGIN_VERSE
-「:PROPERTIES:
-:head: ６
-:END:
-
+「* ６
 　四煩惱常俱
 　謂我癡我見¶
 　并我慢我愛
@@ -216,10 +209,7 @@
 」¶
 
 #+BEGIN_VERSE
-「:PROPERTIES:
-:head: ７
-:END:
-
+「* ７
 　有覆無記攝
 　隨所生所繫¶
 　阿羅漢滅定
