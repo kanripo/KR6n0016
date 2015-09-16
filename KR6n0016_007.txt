@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:55:40.745265
+#+DATE: 2015-08-30 20:55:45.852444
 #+TITLE: 成唯識論
 #+PROPERTY: CBETA_ID T31n1585
 #+PROPERTY: ID KR6n0016
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 31, No. 1585
 #+PROPERTY: VOL 31
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6n0016_T_007-0035c> 
 #+PROPERTY: JUAN 7
 ¶
-
- 《成唯識論》卷第七¶
+《成唯識論》卷第七¶
 ¶
 護法等菩薩造¶
 三藏法師玄奘奉　詔譯¶
@@ -167,10 +166,7 @@
 應知現起分位。頌曰。¶
 
 #+BEGIN_VERSE
-「:PROPERTIES:
-:head: １５
-:END:
-
+「* １５
 　依止根本識
 　五識隨緣現¶
 　或俱或不俱
@@ -179,10 +175,7 @@
 」¶
 
 #+BEGIN_VERSE
-「:PROPERTIES:
-:head: １６
-:END:
-
+「* １６
 　意識常現起
 　除生無想天¶
 　及無心二定
@@ -348,10 +341,7 @@
 斯一切唯有識耶。頌曰。¶
 
 #+BEGIN_VERSE
-「:PROPERTIES:
-:head: １７
-:END:
-
+「* １７
 　是諸識轉變
 　分別所分別¶
 　由此彼皆無
@@ -487,10 +477,7 @@
 <pb:KR6n0016_T_007-0040a>¶
 
 #+BEGIN_VERSE
-「:PROPERTIES:
-:head: １８
-:END:
-
+「* １８
 　由一切種識
 　如是如是變¶
 　以展轉力故

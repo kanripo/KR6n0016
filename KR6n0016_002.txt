@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:55:40.591673
+#+DATE: 2015-08-30 20:55:45.703355
 #+TITLE: 成唯識論
 #+PROPERTY: CBETA_ID T31n1585
 #+PROPERTY: ID KR6n0016
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 31, No. 1585
 #+PROPERTY: VOL 31
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6n0016_T_002-0005c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 《成唯識論》卷第二¶
+《成唯識論》卷第二¶
 ¶
 護法等菩薩造¶
 三藏法師玄奘奉　詔譯¶
@@ -209,10 +208,7 @@
 」¶
 
 #+BEGIN_VERSE
-「:PROPERTIES:
-:head: ３
-:END:
-
+「* ３
 　不可知執受
 　處了常與觸¶
 　作意受想思
@@ -221,10 +217,7 @@
 」¶
 
 #+BEGIN_VERSE
-「:PROPERTIES:
-:head: ４
-:END:
-
+「* ４
 　是無覆無記
 　觸等亦如是¶
 　恒轉如瀑流
