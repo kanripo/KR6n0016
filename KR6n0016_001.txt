@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:55:40.555644
+#+DATE: 2015-08-30 20:55:45.132276
 #+TITLE: 成唯識論
 #+PROPERTY: CBETA_ID T31n1585
 #+PROPERTY: ID KR6n0016
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 31, No. 1585
 #+PROPERTY: VOL 31
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SHENGYI
 #+PROPERTY: LASTPB <pb:KR6n0016_T_001-0001a> 
 #+PROPERTY: JUAN 1
 ¶
-No.1585[cf.Nos.1586,1587]¶
-
- 《成唯識論》卷第一¶
+No. 1585 [cf. Nos. 1586, 1587]¶
+《成唯識論》卷第一¶
 ¶
 護法等菩薩造¶
 三藏法師玄奘奉　詔譯¶
@@ -32,10 +31,7 @@ No.1585[cf.Nos.1586,1587]¶
 諸聖教。說有我法。頌曰。¶
 
 #+BEGIN_VERSE
-「:PROPERTIES:
-:head: １
-:END:
-
+「* １
 　由假說我法
 　有種種相轉¶
 　彼依識所變
@@ -44,10 +40,7 @@ No.1585[cf.Nos.1586,1587]¶
 」¶
 
 #+BEGIN_VERSE
-「:PROPERTIES:
-:head: ２
-:END:
-
+「* ２
 　謂異熟思量
 　及了別境識
 #+END_VERSE
@@ -206,7 +199,7 @@ No.1585[cf.Nos.1586,1587]¶
 三體各有三相。和雜難知。故見一者。既有¶
 三相。寧見為一。復如何知三事有異。若彼¶
 一一皆具三相。應一一事能成色等。何所¶
-𨵗少待三和合。體亦應各三。以體即相¶
+[門@卦]少待三和合。體亦應各三。以體即相¶
 故。又大等法皆三合成。展轉相望應無差別。¶
 是則因果唯量諸大諸根差別皆不得成。¶
 若爾一根應得一切境。或應一境一切根所¶

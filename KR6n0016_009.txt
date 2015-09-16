@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:55:40.812954
+#+DATE: 2015-08-30 20:55:45.351478
 #+TITLE: 成唯識論
 #+PROPERTY: CBETA_ID T31n1585
 #+PROPERTY: ID KR6n0016
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 31, No. 1585
 #+PROPERTY: VOL 31
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SHENGYI
 #+PROPERTY: LASTPB <pb:KR6n0016_T_009-0047c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 9
 ¶
 ¶
-
- 《成唯識論》卷第九¶
+《成唯識論》卷第九¶
 ¶
 護法等菩薩造¶
 三藏法師玄奘奉　詔譯¶
@@ -21,10 +20,7 @@
 頌曰。¶
 
 #+BEGIN_VERSE
-「:PROPERTIES:
-:head: ２３
-:END:
-
+「* ２３
 　即依此三性
 　立彼三無性¶
 　故佛密意說
@@ -33,10 +29,7 @@
 」¶
 
 #+BEGIN_VERSE
-「:PROPERTIES:
-:head: ２４
-:END:
-
+「* ２４
 　初即相無性
 　次無自然性¶
 　後由遠離前
@@ -46,10 +39,7 @@
 <pb:KR6n0016_T_009-0048a>¶
 
 #+BEGIN_VERSE
-「:PROPERTIES:
-:head: ２５
-:END:
-
+「* ２５
 　此諸法勝義
 　亦即是真如¶
 　常如其性故
@@ -109,10 +99,7 @@
 何。頌曰。¶
 
 #+BEGIN_VERSE
-「:PROPERTIES:
-:head: ２６
-:END:
-
+「* ２６
 　乃至未起識
 　求住唯識性¶
 　於二取隨眠
@@ -154,7 +141,7 @@
 總名無明。非無見等。如煩惱種立見一處¶
 欲色有愛四住地名。豈彼更無慢無明等。如¶
 是二障分別起者見所斷攝。任運起者修所¶
-斷攝。二乘但能斷煩惱障。菩薩俱斷。永斷二¶
+斷攝。乘但能斷煩惱障。菩薩俱斷。永斷二¶
 種唯聖道。能伏二現行通有漏道。菩薩住
 <pb:KR6n0016_T_009-0049a>¶
 此資糧位中二麁現行雖有伏者。而於細¶
@@ -181,10 +168,7 @@
 行。次加行位其相云何。頌曰。¶
 
 #+BEGIN_VERSE
-「:PROPERTIES:
-:head: ２７
-:END:
-
+「* ２７
 　現前立少物
 　謂是唯識性¶
 　以有所得故
@@ -254,10 +238,7 @@
 曰。¶
 
 #+BEGIN_VERSE
-「:PROPERTIES:
-:head: ２８
-:END:
-
+「* ２８
 　若時於所緣
 　智都無所得¶
 　爾時住唯識
@@ -358,10 +339,7 @@
 頌曰。¶
 
 #+BEGIN_VERSE
-「:PROPERTIES:
-:head: ２９
-:END:
-
+「* ２９
 　無得不思議
 　是出世間智¶
 　捨二麁重故

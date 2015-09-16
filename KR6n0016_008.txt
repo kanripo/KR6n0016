@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:55:40.776287
+#+DATE: 2015-08-30 20:55:45.325218
 #+TITLE: 成唯識論
 #+PROPERTY: CBETA_ID T31n1585
 #+PROPERTY: ID KR6n0016
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 31, No. 1585
 #+PROPERTY: VOL 31
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SHENGYI
 #+PROPERTY: LASTPB <pb:KR6n0016_T_008-0041b> ¶¶¶¶¶¶
 #+PROPERTY: JUAN 8
 ¶
 ¶
-
- 《成唯識論》卷第八¶
+《成唯識論》卷第八¶
 ¶
 護法等菩薩造¶
 三藏法師玄奘奉　詔譯¶
@@ -167,10 +166,7 @@
 相續。頌曰。¶
 
 #+BEGIN_VERSE
-「:PROPERTIES:
-:head: １９
-:END:
-
+「* １９
 　由諸業習氣
 　二取習氣俱¶
 　前異熟既盡
@@ -421,10 +417,7 @@
 性亦不離識。所以者何。頌曰。¶
 
 #+BEGIN_VERSE
-「:PROPERTIES:
-:head: ２０
-:END:
-
+「* ２０
 　由彼彼遍計
 　遍計種種物¶
 　此遍計所執
@@ -433,10 +426,7 @@
 」¶
 
 #+BEGIN_VERSE
-「:PROPERTIES:
-:head: ２１
-:END:
-
+「* ２１
 　依他起自性
 　分別緣所生¶
 　圓成實於彼
@@ -445,10 +435,7 @@
 」¶
 
 #+BEGIN_VERSE
-「:PROPERTIES:
-:head: ２２
-:END:
-
+「* ２２
 　故此與依他
 　非異非不異¶
 　如無常等性
