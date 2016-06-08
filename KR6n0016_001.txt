@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:55:40.555644
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:37
 #+TITLE: 成唯識論
 #+PROPERTY: CBETA_ID T31n1585
 #+PROPERTY: ID KR6n0016
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 31, No. 1585
 #+PROPERTY: VOL 31
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6n0016_T_001-0001a> 
 #+PROPERTY: JUAN 1
 ¶
-No.1585[cf.Nos.1586,1587]¶
-
- 《成唯識論》卷第一¶
+No. 1585 [cf. Nos. 1586, 1587]¶
+《成唯識論》卷第一¶
 ¶
 護法等菩薩造¶
 三藏法師玄奘奉　詔譯¶
@@ -32,26 +31,20 @@ No.1585[cf.Nos.1586,1587]¶
 諸聖教。說有我法。頌曰。¶
 
 #+BEGIN_VERSE
-「:PROPERTIES:
-:head: １
-:END:
-
+「* １
 　由假說我法
 　有種種相轉¶
 　彼依識所變
-　此能變唯三
+　此能變唯三」
 #+END_VERSE
-」¶
+¶
 
 #+BEGIN_VERSE
-「:PROPERTIES:
-:head: ２
-:END:
-
+「* ２
 　謂異熟思量
-　及了別境識
+　及了別境識」
 #+END_VERSE
-」¶
+¶
 
 論曰。世間聖教說有我法。但由假立非實¶
 有性。我謂主宰。法謂軌持。彼二俱有種種相¶
