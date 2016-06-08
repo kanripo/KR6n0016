@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:55:40.555644
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:37
 #+TITLE: 成唯識論
 #+PROPERTY: CBETA_ID T31n1585
 #+PROPERTY: ID KR6n0016
@@ -39,9 +39,9 @@ No.1585[cf.Nos.1586,1587]¶
 　由假說我法
 　有種種相轉¶
 　彼依識所變
-　此能變唯三
+　此能變唯三」
 #+END_VERSE
-」¶
+¶
 
 #+BEGIN_VERSE
 「:PROPERTIES:
@@ -49,9 +49,9 @@ No.1585[cf.Nos.1586,1587]¶
 :END:
 
 　謂異熟思量
-　及了別境識
+　及了別境識」
 #+END_VERSE
-」¶
+¶
 
 論曰。世間聖教說有我法。但由假立非實¶
 有性。我謂主宰。法謂軌持。彼二俱有種種相¶
